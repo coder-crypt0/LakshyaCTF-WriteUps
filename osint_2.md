@@ -7,6 +7,9 @@ You are given a photo of an object. Your task is to identify where this object i
 Flag format: LakshyaCTF{place_name_floorNumber}
 (All lowercase, replace spaces with underscores — e.g., LakshyaCTF{uffizi_galleries_8})
 
+![osint_2](https://github.com/user-attachments/assets/16d7f1b7-8c6a-4f1b-b2d8-e41133420163)
+
+
 ## Analysis
 
 ### Initial Observation
