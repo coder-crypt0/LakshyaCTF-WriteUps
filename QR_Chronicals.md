@@ -55,7 +55,7 @@ from PIL import Image
 import os
 
 # User configuration - SET YOUR EXCEL FILE PATH HERE
-EXCEL_FILE_PATH = r"C:\Users\ritik\Downloads\secret_1_.xlsx"
+EXCEL_FILE_PATH = r"secret_1_.xlsx"
 
 def read_excel_data(file_path):
     """
@@ -168,7 +168,8 @@ if __name__ == "__main__":
 After running the script, I received a QR code image that looked something like:
 
 ```
-[QR CODE IMAGE]
+![qr_secret_1_](https://github.com/user-attachments/assets/040d7c26-cea5-49d4-a90e-c733b113368f)
+
 ```
 
 ## The Flag
