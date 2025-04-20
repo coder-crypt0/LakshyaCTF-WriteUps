@@ -63,6 +63,9 @@ https://r.mtdv.me/7qvp3dC1sf
 
 ### Step 6: The Rickroll and Hidden Clue
 
+![image](https://github.com/user-attachments/assets/f015f202-b7fd-439d-931d-4a7323f0351d)
+
+
 Upon visiting this URL, I was presented with a Rickroll video. However, the description contained an important hint:
 > Ever felt the urge to do the 'Hand Thing'? Dive into the surreal and let Shaye guide you.
 
@@ -74,12 +77,18 @@ Searching for "Hand Thing" on Google led me to a YouTube video titled "[HAND THI
 
 As suggested by the challenge hint "the comments don't lie," I scrolled through the video comments and found one from a user named KRISH who simply commented "i am here".
 
+![image](https://github.com/user-attachments/assets/68de3232-145b-49d2-80c3-61874e97ba45)
+
+
 ### Step 9: Investigating Krish's YouTube Channel
 
 Visiting Krish's YouTube channel, I found a cryptic string in the account description:
 ```
 68747470733a2f2f74696e7975726c2e636f6d2f626d6d6a76776835
 ```
+
+![image](https://github.com/user-attachments/assets/ff5efa72-ec7e-4ae5-8e35-c190b627e7fd)
+
 
 ### Step 10: Decoding the Hex String
 
