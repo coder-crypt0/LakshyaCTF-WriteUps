@@ -39,13 +39,4 @@ Therefore, the flag is:
 LakshyaCTF{heinz_nixdorf_museumsforum_2}
 ```
 
-## Learning Outcomes
 
-This challenge demonstrates key aspects of OSINT (Open Source Intelligence) investigation:
-
-1. **Object Identification**: Recognizing historical technology items based on visual cues
-2. **Historical Research**: Understanding the significance and provenance of artifacts
-3. **Location Tracking**: Following the trail of an item from its origin to its current location
-4. **Detail Verification**: Finding specific information like floor numbers through multiple sources
-
-The challenge also highlights how seemingly ordinary objects can have extraordinary stories behind them, and how these stories are preserved in museums as part of our technological heritage.
