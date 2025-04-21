@@ -1,9 +1,13 @@
-# Reverse Engineering 1 - Writeup
+# Hello World - Reverse Engineering
 
-## Challenge Name: Hello.exe
+## Challenge Name: Hello World
 
 ## Description
-For this challenge, we were given a Windows executable file named "hello.exe" with no additional information. The task was to analyze the binary and find the hidden flag.
+Jaisa dikhta hai waisa hota hai nahi.
+Ek compiled binary diya gaya hai jisme ek certain string form mein memory mein embedded hai—lekin direct-readable format mein nahi. Program khud ek standard output call use karta hai jo is constant ko runtime pe reveal karta hai.
+Dekhte hain aap kitne ache se binary ki antar-atma tak pahunch paate ho. Bas dhyaan rahe: kuch cheezein encoded mein chipki hui hain, aur shabd kuch aise hain jo turant samajh nahi aayenge... unless you know where to look
+
+(hello.exe)
 
 ## Tools Used
 - IDA Pro (Interactive Disassembler)
