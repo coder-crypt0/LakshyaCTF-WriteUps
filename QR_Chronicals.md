@@ -1,7 +1,9 @@
 # QR Chronicals Writeup
 
 ## Challenge Description
-In this challenge, I was provided with an Excel file (secret_1_.xlsx) that contained what appeared to be coordinate data. The goal was to figure out how to interpret this data to retrieve the flag.
+A simple CSV file? Think again! This file hides a crucial secret within its structured data, but it's not immediately visible to the naked eye. The key to unlocking it lies in understanding the encoded coordinates stored within. Can you decipher the hidden pattern and extract the concealed information?
+
+Flag Format: LakshyaCTF{enter your flag as it is here}
 
 ## Initial Analysis
 
