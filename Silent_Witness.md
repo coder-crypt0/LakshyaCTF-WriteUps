@@ -1,4 +1,4 @@
-# OSINT Challenge 2 - The Internet Coffee Machine
+# OSINT Challenge 2 - Silent Witness
 
 ## Challenge Description
 
