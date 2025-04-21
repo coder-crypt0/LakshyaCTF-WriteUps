@@ -1,4 +1,4 @@
-# Web Security Challenge - LFI (Local File Inclusion)
+# Web Security Challenge - Echoes in the Code
 
 ## Challenge Description
 
